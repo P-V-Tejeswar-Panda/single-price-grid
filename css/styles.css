@@ -1,0 +1,43 @@
+body{
+  font-family: 'Karla', sans-serif;
+  text-align: center;
+  margin: 0;
+
+}
+
+.top{
+  text-align: left;
+  display: inline-block;
+  width: 90.35%;
+  border: solid 1px;
+
+}
+
+.data{
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.bottom-left{
+
+  display: inline-block;
+  width: 45%;
+  position: relative;
+  background-color: #2BB3B1;
+  border: solid 1px;
+  margin: 0;
+  height: 500px;
+
+}
+
+.bottom-right{
+
+  display: inline-block;
+  width: 45%;
+  margin: 0;
+  position: relative;
+  background-color: #4ABEBD;
+  border: solid 1px;
+  height: 500px;
+}
